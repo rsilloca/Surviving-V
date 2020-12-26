@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 6446584b1894c0546b85c63435fe7890
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6181831849475080100
+    second: young_man_0
+  - first:
+      213: -7432980524887493357
+    second: young_man_1
+  - first:
+      213: 6229412314479758295
+    second: young_man_2
+  - first:
+      213: 5929969611801521257
+    second: young_man_3
+  - first:
+      213: 9062086631974452490
+    second: young_man_4
+  - first:
+      213: 2247851205374014365
+    second: young_man_5
+  - first:
+      213: -3670675785124496575
+    second: young_man_6
+  - first:
+      213: -9078228172826608904
+    second: young_man_7
+  - first:
+      213: 4392319853829234681
+    second: young_man_8
+  - first:
+      213: 8609648769252317624
+    second: young_man_9
+  - first:
+      213: 553639057568231223
+    second: young_man_10
+  - first:
+      213: -6716478943934798169
+    second: young_man_11
+  - first:
+      213: 5527675888060681423
+    second: young_man_12
+  - first:
+      213: 3029122221219461953
+    second: young_man_13
+  - first:
+      213: 1167302181228035154
+    second: young_man_14
+  - first:
+      213: -2350132370413837506
+    second: young_man_15
+  - first:
+      213: 8981852056813237735
+    second: young_man_16
+  - first:
+      213: -7997566243902413526
+    second: young_man_17
+  - first:
+      213: -4140656929153092043
+    second: young_man_18
+  - first:
+      213: -5014015410783655262
+    second: young_man_19
+  - first:
+      213: -8494428796944043780
+    second: young_man_20
+  - first:
+      213: 3092986744201504964
+    second: young_man_21
+  - first:
+      213: 260689882971636308
+    second: young_man_22
+  - first:
+      213: 5737888555103801549
+    second: young_man_23
+  - first:
+      213: 3910646795356825792
+    second: young_man_24
+  - first:
+      213: -283585031861857328
+    second: young_man_25
+  - first:
+      213: -1523316533684167424
+    second: young_man_26
+  - first:
+      213: -8675673936955054335
+    second: young_man_27
+  - first:
+      213: -6121287523398137936
+    second: young_man_28
+  - first:
+      213: 6093085476649472225
+    second: young_man_29
+  - first:
+      213: -4328770548973486558
+    second: young_man_30
+  - first:
+      213: -1108814647287979562
+    second: young_man_31
+  - first:
+      213: 7004374683347012510
+    second: young_man_32
+  - first:
+      213: -2216709067429935650
+    second: young_man_33
+  - first:
+      213: -5572949343766689653
+    second: young_man_34
+  - first:
+      213: 5985912085734254117
+    second: young_man_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: young_man_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 447
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af782970574ac550800000000000000
+      internalID: 6181831849475080100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 437
+        width: 43
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3153faf189fb8d890800000000000000
+      internalID: -7432980524887493357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 442
+        width: 49
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db8204ce71537650800000000000000
+      internalID: 6229412314479758295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 299
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c6a4091fb7b4250800000000000000
+      internalID: 5929969611801521257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 293
+        width: 37
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d37ae57cff2cd70800000000000000
+      internalID: 9062086631974452490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 303
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93704cf2c8f13f10800000000000000
+      internalID: 2247851205374014365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb60e42d32f0dc0800000000000000
+      internalID: -3670675785124496575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 150
+        width: 37
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf9b84397a30280800000000000000
+      internalID: -9078228172826608904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 155
+        width: 81
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff1363b2a7a4fc30800000000000000
+      internalID: 4392319853829234681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 47
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d92490fd9b7770800000000000000
+      internalID: 8609648769252317624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_10
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 40
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73fe2202acbeea700800000000000000
+      internalID: 553639057568231223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: young_man_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 22
+        width: 40
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a620656cf54ac2a0800000000000000
+      internalID: -6716478943934798169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

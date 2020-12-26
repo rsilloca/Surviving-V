@@ -1,0 +1,3374 @@
+fileFormatVersion: 2
+guid: 3db38593a8b917c4d879fe6ee0ecbe89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3521427111303423466
+    second: bathroom_0
+  - first:
+      213: 6983358275279283047
+    second: bathroom_1
+  - first:
+      213: 1169091165138729141
+    second: bathroom_2
+  - first:
+      213: 3300606671451264670
+    second: bathroom_3
+  - first:
+      213: 3155690606720968461
+    second: bathroom_4
+  - first:
+      213: -3116974730507115604
+    second: bathroom_5
+  - first:
+      213: 2983476358436010028
+    second: bathroom_6
+  - first:
+      213: 2797578448776851711
+    second: bathroom_7
+  - first:
+      213: 180818828194593506
+    second: bathroom_8
+  - first:
+      213: -5181877912138065124
+    second: bathroom_9
+  - first:
+      213: -4309067922572259023
+    second: bathroom_10
+  - first:
+      213: -4719920441953140294
+    second: bathroom_11
+  - first:
+      213: 424640374056618819
+    second: bathroom_12
+  - first:
+      213: 3360226103960135051
+    second: bathroom_13
+  - first:
+      213: -9174244067029899023
+    second: bathroom_14
+  - first:
+      213: -150545708790703871
+    second: bathroom_15
+  - first:
+      213: -196028476582618900
+    second: bathroom_16
+  - first:
+      213: 2889209925469297122
+    second: bathroom_17
+  - first:
+      213: -2141553197332089939
+    second: bathroom_18
+  - first:
+      213: -5807677388573095222
+    second: bathroom_19
+  - first:
+      213: 2235141617128906387
+    second: bathroom_20
+  - first:
+      213: 4460989859543285799
+    second: bathroom_21
+  - first:
+      213: -573019512453249434
+    second: bathroom_22
+  - first:
+      213: 4486309160106536113
+    second: bathroom_23
+  - first:
+      213: 1822452513176793564
+    second: bathroom_24
+  - first:
+      213: -3446809160783019374
+    second: bathroom_25
+  - first:
+      213: 7126325851185246801
+    second: bathroom_26
+  - first:
+      213: 6089186949661689324
+    second: bathroom_27
+  - first:
+      213: 4725955208724985027
+    second: bathroom_28
+  - first:
+      213: 1440792775419611805
+    second: bathroom_29
+  - first:
+      213: -3773997810166076653
+    second: bathroom_30
+  - first:
+      213: 1395539743248188897
+    second: bathroom_31
+  - first:
+      213: -2702064901767447229
+    second: bathroom_32
+  - first:
+      213: 3113594521541892790
+    second: bathroom_33
+  - first:
+      213: -1091449320473632872
+    second: bathroom_34
+  - first:
+      213: 2892984793159275152
+    second: bathroom_35
+  - first:
+      213: 5370414570755183422
+    second: bathroom_36
+  - first:
+      213: 5810531500438784143
+    second: bathroom_37
+  - first:
+      213: -474781495250701013
+    second: bathroom_38
+  - first:
+      213: 7933173487101151337
+    second: bathroom_39
+  - first:
+      213: 9000836940767001015
+    second: bathroom_40
+  - first:
+      213: -1627308405031128750
+    second: bathroom_41
+  - first:
+      213: 4442640414240506724
+    second: bathroom_42
+  - first:
+      213: 8815848776762648347
+    second: bathroom_43
+  - first:
+      213: 8013304299959938227
+    second: bathroom_44
+  - first:
+      213: -2641545288114440883
+    second: bathroom_45
+  - first:
+      213: 2729284867725980163
+    second: bathroom_46
+  - first:
+      213: 1119004141917789969
+    second: bathroom_47
+  - first:
+      213: -7545728214667223796
+    second: bathroom_48
+  - first:
+      213: -6847711137159085346
+    second: bathroom_49
+  - first:
+      213: -5274934573986297032
+    second: bathroom_50
+  - first:
+      213: 8149663984789321154
+    second: bathroom_51
+  - first:
+      213: 376341611494484026
+    second: bathroom_52
+  - first:
+      213: -7402441170518086807
+    second: bathroom_53
+  - first:
+      213: -3618473741146760992
+    second: bathroom_54
+  - first:
+      213: 5793780039374090745
+    second: bathroom_55
+  - first:
+      213: -6864223818152325343
+    second: bathroom_56
+  - first:
+      213: 1798542236849769281
+    second: bathroom_57
+  - first:
+      213: 7412863424183015083
+    second: bathroom_58
+  - first:
+      213: -5736792850327261915
+    second: bathroom_59
+  - first:
+      213: -1396869465526769540
+    second: bathroom_60
+  - first:
+      213: 174522009667385097
+    second: bathroom_61
+  - first:
+      213: -4816169149342624815
+    second: bathroom_62
+  - first:
+      213: 5413683168192136658
+    second: bathroom_63
+  - first:
+      213: 1025496271039190004
+    second: bathroom_64
+  - first:
+      213: 6290739665706466581
+    second: bathroom_65
+  - first:
+      213: -3336414294272976138
+    second: bathroom_66
+  - first:
+      213: -1734082123484466749
+    second: bathroom_67
+  - first:
+      213: -4893504443061032631
+    second: bathroom_68
+  - first:
+      213: 5836616644020981534
+    second: bathroom_69
+  - first:
+      213: 3933595058853168296
+    second: bathroom_70
+  - first:
+      213: -5426956464466165964
+    second: bathroom_71
+  - first:
+      213: 9113323916143035700
+    second: bathroom_72
+  - first:
+      213: 8254730862847538980
+    second: bathroom_73
+  - first:
+      213: -587775324164326081
+    second: bathroom_74
+  - first:
+      213: -232232329041122239
+    second: bathroom_75
+  - first:
+      213: -7438908405536102823
+    second: bathroom_76
+  - first:
+      213: 1363294769866007018
+    second: bathroom_77
+  - first:
+      213: 3485604450946394154
+    second: bathroom_78
+  - first:
+      213: 2557977880877122602
+    second: bathroom_79
+  - first:
+      213: -8047973342095045783
+    second: bathroom_80
+  - first:
+      213: -4930245791181673880
+    second: bathroom_81
+  - first:
+      213: 5540916498899014453
+    second: bathroom_82
+  - first:
+      213: -3124845353575135881
+    second: bathroom_83
+  - first:
+      213: -538876462873433972
+    second: bathroom_84
+  - first:
+      213: 7278223458438899380
+    second: bathroom_85
+  - first:
+      213: -7962852476369412120
+    second: bathroom_86
+  - first:
+      213: 5807454485409629481
+    second: bathroom_87
+  - first:
+      213: 3738749579193186895
+    second: bathroom_88
+  - first:
+      213: -3031793974779559754
+    second: bathroom_89
+  - first:
+      213: -695562670921234072
+    second: bathroom_90
+  - first:
+      213: -5061696851993700937
+    second: bathroom_91
+  - first:
+      213: 1346985650875805153
+    second: bathroom_92
+  - first:
+      213: -7289710596799995581
+    second: bathroom_93
+  - first:
+      213: 7715323687896257440
+    second: bathroom_94
+  - first:
+      213: 2026071436162938477
+    second: bathroom_95
+  - first:
+      213: 5431604124772259624
+    second: bathroom_96
+  - first:
+      213: -217707191294765253
+    second: bathroom_97
+  - first:
+      213: 3234935071821025555
+    second: bathroom_98
+  - first:
+      213: 7316570874536655726
+    second: bathroom_99
+  - first:
+      213: 8104309932977387472
+    second: bathroom_100
+  - first:
+      213: -8908159015987777156
+    second: bathroom_101
+  - first:
+      213: 2672439739132968781
+    second: bathroom_102
+  - first:
+      213: -1505335252984457826
+    second: bathroom_103
+  - first:
+      213: 4457194202189018330
+    second: bathroom_104
+  - first:
+      213: 2217848583343611422
+    second: bathroom_105
+  - first:
+      213: 5108486547116215677
+    second: bathroom_106
+  - first:
+      213: 508041333411124191
+    second: bathroom_107
+  - first:
+      213: -1175206741449623136
+    second: bathroom_108
+  - first:
+      213: -9057392613874128506
+    second: bathroom_109
+  - first:
+      213: 3987465097067172599
+    second: bathroom_110
+  - first:
+      213: -2664230566666453769
+    second: bathroom_111
+  - first:
+      213: 667968951458825530
+    second: bathroom_112
+  - first:
+      213: 8335247278942997907
+    second: bathroom_113
+  - first:
+      213: 6204370339513893361
+    second: bathroom_114
+  - first:
+      213: -8289235774932798106
+    second: bathroom_115
+  - first:
+      213: -7050107136102697718
+    second: bathroom_116
+  - first:
+      213: 151836135026451763
+    second: bathroom_117
+  - first:
+      213: -1183202215358008609
+    second: bathroom_118
+  - first:
+      213: -865173252419484659
+    second: bathroom_119
+  - first:
+      213: 6765734227450393316
+    second: bathroom_120
+  - first:
+      213: 5018419292814264458
+    second: bathroom_121
+  - first:
+      213: 579227761468346040
+    second: bathroom_122
+  - first:
+      213: 6600909186829834699
+    second: bathroom_123
+  - first:
+      213: -4317750923361101196
+    second: bathroom_124
+  - first:
+      213: -3091068453763117757
+    second: bathroom_125
+  - first:
+      213: -7110326238486090430
+    second: bathroom_126
+  - first:
+      213: 5660653614969093355
+    second: bathroom_127
+  - first:
+      213: 4976413952950643950
+    second: bathroom_128
+  - first:
+      213: -8005601462132355107
+    second: bathroom_129
+  - first:
+      213: -5887304505560169627
+    second: bathroom_130
+  - first:
+      213: 8756042791401107305
+    second: bathroom_131
+  - first:
+      213: -4753940962193877316
+    second: bathroom_132
+  - first:
+      213: 9017739692460465495
+    second: bathroom_133
+  - first:
+      213: -4867561315264965205
+    second: bathroom_134
+  - first:
+      213: -7818336469956410991
+    second: bathroom_135
+  - first:
+      213: 7376459111519218712
+    second: bathroom_136
+  - first:
+      213: -3309178828424695356
+    second: bathroom_137
+  - first:
+      213: -6813765540104725997
+    second: bathroom_138
+  - first:
+      213: -5973352203279011864
+    second: bathroom_139
+  - first:
+      213: -6929953809081619342
+    second: bathroom_140
+  - first:
+      213: 1084656877994353529
+    second: bathroom_141
+  - first:
+      213: -6254219230587097104
+    second: bathroom_142
+  - first:
+      213: 6885686462634209612
+    second: bathroom_143
+  - first:
+      213: -5625838047234137490
+    second: bathroom_144
+  - first:
+      213: -5097022655548371064
+    second: bathroom_145
+  - first:
+      213: 2721413165222503572
+    second: bathroom_146
+  - first:
+      213: 2485281039253885896
+    second: bathroom_147
+  - first:
+      213: 957364265340588446
+    second: bathroom_148
+  - first:
+      213: -3043127466796877678
+    second: bathroom_149
+  - first:
+      213: 7705556185953153676
+    second: bathroom_150
+  - first:
+      213: -1233697971911794032
+    second: bathroom_151
+  - first:
+      213: 3981004383387702055
+    second: bathroom_152
+  - first:
+      213: 9138171279112752850
+    second: bathroom_153
+  - first:
+      213: 5736304491962179187
+    second: bathroom_154
+  - first:
+      213: 8958333159064452197
+    second: bathroom_155
+  - first:
+      213: 236012660231071087
+    second: bathroom_156
+  - first:
+      213: 5334802191052570187
+    second: bathroom_157
+  - first:
+      213: 990874453969199661
+    second: bathroom_158
+  - first:
+      213: -2486486362487206543
+    second: bathroom_159
+  - first:
+      213: 7124721356920962809
+    second: bathroom_160
+  - first:
+      213: -1629236537749725338
+    second: bathroom_161
+  - first:
+      213: -8317553606081559226
+    second: bathroom_162
+  - first:
+      213: -3436779460541127830
+    second: bathroom_163
+  - first:
+      213: -3794992115147701302
+    second: bathroom_164
+  - first:
+      213: 6006074303271904684
+    second: bathroom_165
+  - first:
+      213: 4547324844843943254
+    second: bathroom_166
+  - first:
+      213: 867762992252188939
+    second: bathroom_167
+  - first:
+      213: -6162902550965151865
+    second: bathroom_168
+  - first:
+      213: -7481025732600541522
+    second: bathroom_169
+  - first:
+      213: -6367223912614322057
+    second: bathroom_170
+  - first:
+      213: 656819911707354367
+    second: bathroom_171
+  - first:
+      213: -1169629703261195046
+    second: bathroom_172
+  - first:
+      213: 683152736998422698
+    second: bathroom_173
+  - first:
+      213: 8906176076837572814
+    second: bathroom_174
+  - first:
+      213: 5677295583183895912
+    second: bathroom_175
+  - first:
+      213: 2841893561695503552
+    second: bathroom_176
+  - first:
+      213: -2984973496909945327
+    second: bathroom_177
+  - first:
+      213: -7182985612230926626
+    second: bathroom_178
+  - first:
+      213: 532720646658395510
+    second: bathroom_179
+  - first:
+      213: -9128806541564201662
+    second: bathroom_180
+  - first:
+      213: -1930141654516462902
+    second: bathroom_181
+  - first:
+      213: -4433018583722503104
+    second: bathroom_182
+  - first:
+      213: -4971935373088951342
+    second: bathroom_183
+  - first:
+      213: 1276526506570921113
+    second: bathroom_184
+  - first:
+      213: -6749045345275266126
+    second: bathroom_185
+  - first:
+      213: -3375948395568612293
+    second: bathroom_186
+  - first:
+      213: 4326073440345355976
+    second: bathroom_187
+  - first:
+      213: 3032941274071011890
+    second: bathroom_188
+  - first:
+      213: -8492051941478776915
+    second: bathroom_189
+  - first:
+      213: -7490427409313294452
+    second: bathroom_190
+  - first:
+      213: -844044223122731786
+    second: bathroom_191
+  - first:
+      213: 3753995477391653291
+    second: bathroom_192
+  - first:
+      213: -4438416058473771937
+    second: bathroom_193
+  - first:
+      213: -9072081090606756403
+    second: bathroom_194
+  - first:
+      213: 1678585329597593151
+    second: bathroom_195
+  - first:
+      213: 4626753149104507468
+    second: bathroom_196
+  - first:
+      213: 5565337115252095600
+    second: bathroom_197
+  - first:
+      213: 7602164672459796481
+    second: bathroom_198
+  - first:
+      213: 3489218188376598608
+    second: bathroom_199
+  - first:
+      213: -8231015048872743139
+    second: bathroom_200
+  - first:
+      213: 3232648929291482603
+    second: bathroom_201
+  - first:
+      213: 857229530216531545
+    second: bathroom_202
+  - first:
+      213: -1531879231943873542
+    second: bathroom_203
+  - first:
+      213: 405603290029567800
+    second: bathroom_204
+  - first:
+      213: 5242421111413318556
+    second: bathroom_205
+  - first:
+      213: -6121939109383586002
+    second: bathroom_206
+  - first:
+      213: -2147785265782187504
+    second: bathroom_207
+  - first:
+      213: -421977871104953652
+    second: bathroom_208
+  - first:
+      213: -6841529752410979609
+    second: bathroom_209
+  - first:
+      213: 6635799699513173141
+    second: bathroom_210
+  - first:
+      213: -8009885785528303873
+    second: bathroom_211
+  - first:
+      213: 6176186926083189144
+    second: bathroom_212
+  - first:
+      213: 2328773746431087238
+    second: bathroom_213
+  - first:
+      213: 8997933256166654021
+    second: bathroom_214
+  - first:
+      213: 3509810051026747923
+    second: bathroom_215
+  - first:
+      213: 5815707061937325967
+    second: bathroom_216
+  - first:
+      213: 1991476154168641873
+    second: bathroom_217
+  - first:
+      213: -6420057445427295500
+    second: bathroom_218
+  - first:
+      213: 1574847256837646002
+    second: bathroom_219
+  - first:
+      213: -7356419028613063679
+    second: bathroom_220
+  - first:
+      213: 2221866735951495447
+    second: bathroom_221
+  - first:
+      213: 1004725564141560977
+    second: bathroom_222
+  - first:
+      213: 2441787922496625095
+    second: bathroom_223
+  - first:
+      213: -3403789110819503341
+    second: bathroom_224
+  - first:
+      213: 7055509426633935647
+    second: bathroom_225
+  - first:
+      213: -5735770505961557275
+    second: bathroom_226
+  - first:
+      213: 6548442160137628769
+    second: bathroom_227
+  - first:
+      213: -7598696206586747162
+    second: bathroom_228
+  - first:
+      213: 2607442937427869404
+    second: bathroom_229
+  - first:
+      213: -3249707931931668100
+    second: bathroom_230
+  - first:
+      213: -8922175237968358237
+    second: bathroom_231
+  - first:
+      213: 3510305338192571478
+    second: bathroom_232
+  - first:
+      213: -982826389376288868
+    second: bathroom_233
+  - first:
+      213: 8780272955694038774
+    second: bathroom_234
+  - first:
+      213: 9154853738694702395
+    second: bathroom_235
+  - first:
+      213: 7017516285047282073
+    second: bathroom_236
+  - first:
+      213: -7241168416380998833
+    second: bathroom_237
+  - first:
+      213: -4106216733469649142
+    second: bathroom_238
+  - first:
+      213: -827355406595198666
+    second: bathroom_239
+  - first:
+      213: -6386921643130049898
+    second: bathroom_240
+  - first:
+      213: 6826903708902322581
+    second: bathroom_241
+  - first:
+      213: -7433846396130814477
+    second: bathroom_242
+  - first:
+      213: 8903103030451085381
+    second: bathroom_243
+  - first:
+      213: -6619611694800410823
+    second: bathroom_244
+  - first:
+      213: 5877359516092275450
+    second: bathroom_245
+  - first:
+      213: -3959596126346609928
+    second: bathroom_246
+  - first:
+      213: 1802163826885272983
+    second: bathroom_247
+  - first:
+      213: 8408614005100786443
+    second: bathroom_248
+  - first:
+      213: 346422375990413884
+    second: bathroom_249
+  - first:
+      213: 2238611466898087262
+    second: bathroom_250
+  - first:
+      213: -3040007403636428913
+    second: bathroom_251
+  - first:
+      213: 1575685878104690474
+    second: bathroom_252
+  - first:
+      213: -2647276372419964375
+    second: bathroom_253
+  - first:
+      213: -110845334351294736
+    second: bathroom_254
+  - first:
+      213: 3483718639233953192
+    second: bathroom_255
+  - first:
+      213: -5005746513733021515
+    second: bathroom_256
+  - first:
+      213: -1372067149053225792
+    second: bathroom_257
+  - first:
+      213: -8566527732845258615
+    second: bathroom_258
+  - first:
+      213: 6896614217123312069
+    second: bathroom_259
+  - first:
+      213: -424251697499058992
+    second: bathroom_260
+  - first:
+      213: -235455427089984787
+    second: bathroom_261
+  - first:
+      213: 3886258224152305696
+    second: bathroom_262
+  - first:
+      213: 1833179562533382508
+    second: bathroom_263
+  - first:
+      213: -5708105473897821839
+    second: bathroom_264
+  - first:
+      213: -6789785380862891400
+    second: bathroom_265
+  - first:
+      213: 7572686360419494733
+    second: bathroom_266
+  - first:
+      213: -3378513638879544000
+    second: bathroom_267
+  - first:
+      213: -190401602855462557
+    second: bathroom_268
+  - first:
+      213: -5328189039660328740
+    second: bathroom_269
+  - first:
+      213: 5437084540644537718
+    second: bathroom_270
+  - first:
+      213: 7736755124161031987
+    second: bathroom_271
+  - first:
+      213: 1489752335829586616
+    second: bathroom_272
+  - first:
+      213: -166699555888732381
+    second: bathroom_273
+  - first:
+      213: 4982586461286303485
+    second: bathroom_274
+  - first:
+      213: 8718681372951987523
+    second: bathroom_275
+  - first:
+      213: -1142379543093428271
+    second: bathroom_276
+  - first:
+      213: 4821707122639563284
+    second: bathroom_277
+  - first:
+      213: 8847230943408700606
+    second: bathroom_278
+  - first:
+      213: 1871359007834168551
+    second: bathroom_279
+  - first:
+      213: 2682296630631780001
+    second: bathroom_280
+  - first:
+      213: 5050691118300691618
+    second: bathroom_281
+  - first:
+      213: 5420004276346206626
+    second: bathroom_282
+  - first:
+      213: -4951561564905875085
+    second: bathroom_283
+  - first:
+      213: 2420199370849859701
+    second: bathroom_284
+  - first:
+      213: -5885965696991236986
+    second: bathroom_285
+  - first:
+      213: 162715594150884665
+    second: bathroom_286
+  - first:
+      213: 6360802590928613452
+    second: bathroom_287
+  - first:
+      213: -293370633241058719
+    second: bathroom_288
+  - first:
+      213: 465901188024652525
+    second: bathroom_289
+  - first:
+      213: -5900531153426116453
+    second: bathroom_290
+  - first:
+      213: 6892008047406679091
+    second: bathroom_291
+  - first:
+      213: 5675691034348438608
+    second: bathroom_292
+  - first:
+      213: 8230116973773728311
+    second: bathroom_293
+  - first:
+      213: -5640199665867149521
+    second: bathroom_294
+  - first:
+      213: 4616029861221050058
+    second: bathroom_295
+  - first:
+      213: -2183789706761302693
+    second: bathroom_296
+  - first:
+      213: 3145983987082817725
+    second: bathroom_297
+  - first:
+      213: 1973901764913824105
+    second: bathroom_298
+  - first:
+      213: -6721916709613366881
+    second: bathroom_299
+  - first:
+      213: 8961441783265307419
+    second: bathroom_300
+  - first:
+      213: -7507112821490279402
+    second: bathroom_301
+  - first:
+      213: 5265815948514692135
+    second: bathroom_302
+  - first:
+      213: 4950779415491356695
+    second: bathroom_303
+  - first:
+      213: -3353522861597936275
+    second: bathroom_304
+  - first:
+      213: -8625929893359847042
+    second: bathroom_305
+  - first:
+      213: -7805157003830200605
+    second: bathroom_306
+  - first:
+      213: 1976236336422763970
+    second: bathroom_307
+  - first:
+      213: -2255414575312984312
+    second: bathroom_308
+  - first:
+      213: 23061592533953988
+    second: bathroom_309
+  - first:
+      213: 3146197498176380203
+    second: bathroom_310
+  - first:
+      213: 7760388187397807180
+    second: bathroom_311
+  - first:
+      213: -9083748138030594279
+    second: bathroom_312
+  - first:
+      213: -1312290968817616357
+    second: bathroom_313
+  - first:
+      213: 8477503261186013732
+    second: bathroom_314
+  - first:
+      213: 2439958048780448141
+    second: bathroom_315
+  - first:
+      213: -6611920176604846795
+    second: bathroom_316
+  - first:
+      213: -4036542879831596242
+    second: bathroom_317
+  - first:
+      213: -8789440544443069046
+    second: bathroom_318
+  - first:
+      213: -1561860473011335091
+    second: bathroom_319
+  - first:
+      213: -1771399460280221866
+    second: bathroom_320
+  - first:
+      213: 8188808053089143180
+    second: bathroom_321
+  - first:
+      213: -5719949010119280063
+    second: bathroom_322
+  - first:
+      213: -7657003630847729008
+    second: bathroom_323
+  - first:
+      213: 7937522974355310371
+    second: bathroom_324
+  - first:
+      213: -4443076653082509186
+    second: bathroom_325
+  - first:
+      213: 5967048935811106335
+    second: bathroom_326
+  - first:
+      213: -6754786285478828257
+    second: bathroom_327
+  - first:
+      213: -395526017314300521
+    second: bathroom_328
+  - first:
+      213: 2425897681893211596
+    second: bathroom_329
+  - first:
+      213: -6756826218866087595
+    second: bathroom_330
+  - first:
+      213: -7378305512816737243
+    second: bathroom_331
+  - first:
+      213: 6234812945250407129
+    second: bathroom_332
+  - first:
+      213: -2661939469349305908
+    second: bathroom_333
+  - first:
+      213: -5864889790831634285
+    second: bathroom_334
+  - first:
+      213: 6086349774262650031
+    second: bathroom_335
+  - first:
+      213: 7504209785698489367
+    second: bathroom_336
+  - first:
+      213: 3033714211979718331
+    second: bathroom_337
+  - first:
+      213: 2580305647554576833
+    second: bathroom_338
+  - first:
+      213: 5105178128074087382
+    second: bathroom_339
+  - first:
+      213: 7273945889945211271
+    second: bathroom_340
+  - first:
+      213: 584530404036348099
+    second: bathroom_341
+  - first:
+      213: -4504124154419135570
+    second: bathroom_342
+  - first:
+      213: -5833622480433396670
+    second: bathroom_343
+  - first:
+      213: 7437425433203977357
+    second: bathroom_344
+  - first:
+      213: -2703090619357610384
+    second: bathroom_345
+  - first:
+      213: 2204376183964167921
+    second: bathroom_346
+  - first:
+      213: -318041104349540755
+    second: bathroom_347
+  - first:
+      213: 1527555397619912849
+    second: bathroom_348
+  - first:
+      213: -3130589972391640189
+    second: bathroom_349
+  - first:
+      213: 5873142190200719047
+    second: bathroom_350
+  - first:
+      213: -7763518883375673607
+    second: bathroom_351
+  - first:
+      213: 255189752580745426
+    second: bathroom_352
+  - first:
+      213: 5229866965110108784
+    second: bathroom_353
+  - first:
+      213: -8369626222201971959
+    second: bathroom_354
+  - first:
+      213: -7175693047525472143
+    second: bathroom_355
+  - first:
+      213: -3941759760112391813
+    second: bathroom_356
+  - first:
+      213: 1822697875103899370
+    second: bathroom_357
+  - first:
+      213: -3430172752800339521
+    second: bathroom_358
+  - first:
+      213: -5441235958370079402
+    second: bathroom_359
+  - first:
+      213: 909208140757727582
+    second: bathroom_360
+  - first:
+      213: 6145764247135554674
+    second: bathroom_361
+  - first:
+      213: -2829628799125828260
+    second: bathroom_362
+  - first:
+      213: 2360873576938659224
+    second: bathroom_363
+  - first:
+      213: 1550006858568767799
+    second: bathroom_364
+  - first:
+      213: 2698237906689256634
+    second: bathroom_365
+  - first:
+      213: -7560774557729189734
+    second: bathroom_366
+  - first:
+      213: 8428326740210668043
+    second: bathroom_367
+  - first:
+      213: 2367821259019742350
+    second: bathroom_368
+  - first:
+      213: -788498490738388217
+    second: bathroom_369
+  - first:
+      213: 5687608419598156107
+    second: bathroom_370
+  - first:
+      213: 8371138784414670545
+    second: bathroom_371
+  - first:
+      213: -996399560279959733
+    second: bathroom_372
+  - first:
+      213: -8773830053870291537
+    second: bathroom_373
+  - first:
+      213: -2045547025696947611
+    second: bathroom_374
+  - first:
+      213: 4995660551521069527
+    second: bathroom_375
+  - first:
+      213: 2608808343488167051
+    second: bathroom_376
+  - first:
+      213: 114552590998661733
+    second: bathroom_377
+  - first:
+      213: -895985117387360013
+    second: bathroom_378
+  - first:
+      213: -3430198607151083749
+    second: bathroom_379
+  - first:
+      213: -6840810522888797130
+    second: bathroom_380
+  - first:
+      213: 7591238629464202582
+    second: bathroom_381
+  - first:
+      213: 2730962353066091881
+    second: bathroom_382
+  - first:
+      213: 1027006867922447826
+    second: bathroom_383
+  - first:
+      213: 8017098433817385560
+    second: bathroom_384
+  - first:
+      213: -2946351986855352489
+    second: bathroom_385
+  - first:
+      213: 5951334149869072215
+    second: bathroom_386
+  - first:
+      213: -1170427627527516414
+    second: bathroom_387
+  - first:
+      213: -6071721941759930742
+    second: bathroom_388
+  - first:
+      213: 2410524259146855805
+    second: bathroom_389
+  - first:
+      213: -8856291947034937303
+    second: bathroom_390
+  - first:
+      213: -5713801653249079394
+    second: bathroom_391
+  - first:
+      213: 1283815333603745618
+    second: bathroom_392
+  - first:
+      213: -6884190444984586374
+    second: bathroom_393
+  - first:
+      213: 3956467118943573548
+    second: bathroom_394
+  - first:
+      213: 2243467260725999198
+    second: bathroom_395
+  - first:
+      213: 328211847102321501
+    second: bathroom_396
+  - first:
+      213: 4785338379520419538
+    second: bathroom_397
+  - first:
+      213: -5179238147481638817
+    second: bathroom_398
+  - first:
+      213: 29300989810675574
+    second: bathroom_399
+  - first:
+      213: 7962520437300624845
+    second: bathroom_400
+  - first:
+      213: 4158870987359662598
+    second: bathroom_401
+  - first:
+      213: -9093894804122945822
+    second: bathroom_402
+  - first:
+      213: 1793170155062968359
+    second: bathroom_403
+  - first:
+      213: -5983488644812762203
+    second: bathroom_404
+  - first:
+      213: -6015523783367460903
+    second: bathroom_405
+  - first:
+      213: -4801043665511609699
+    second: bathroom_406
+  - first:
+      213: -4493042583891687044
+    second: bathroom_407
+  - first:
+      213: -1594269351458805059
+    second: bathroom_408
+  - first:
+      213: 8953936567253659195
+    second: bathroom_409
+  - first:
+      213: -516375166953592798
+    second: bathroom_410
+  - first:
+      213: 3779199186018901550
+    second: bathroom_411
+  - first:
+      213: -7854429591623843485
+    second: bathroom_412
+  - first:
+      213: 8027755905615560501
+    second: bathroom_413
+  - first:
+      213: 8579657674381706738
+    second: bathroom_414
+  - first:
+      213: -258174542596954314
+    second: bathroom_415
+  - first:
+      213: -6585852164060697313
+    second: bathroom_416
+  - first:
+      213: 2277710488555361462
+    second: bathroom_417
+  - first:
+      213: 93261837444224994
+    second: bathroom_418
+  - first:
+      213: 1789878603884856981
+    second: bathroom_419
+  - first:
+      213: -8031992042011942975
+    second: bathroom_420
+  - first:
+      213: -301817659836788647
+    second: bathroom_421
+  - first:
+      213: 3321788513464838919
+    second: bathroom_422
+  - first:
+      213: 4880993752693593161
+    second: bathroom_423
+  - first:
+      213: -3347787745227908816
+    second: bathroom_424
+  - first:
+      213: 6516345087016401683
+    second: bathroom_425
+  - first:
+      213: 5590169225170214945
+    second: bathroom_426
+  - first:
+      213: 3318411926003888363
+    second: bathroom_427
+  - first:
+      213: -5407223839583111204
+    second: bathroom_428
+  - first:
+      213: 5296968830630320679
+    second: bathroom_429
+  - first:
+      213: 9049367975626815874
+    second: bathroom_430
+  - first:
+      213: -773506885839767485
+    second: bathroom_431
+  - first:
+      213: 8215557136099059563
+    second: bathroom_432
+  - first:
+      213: -4658031054447200326
+    second: bathroom_433
+  - first:
+      213: -5530477943597322531
+    second: bathroom_434
+  - first:
+      213: -9221240652382328035
+    second: bathroom_435
+  - first:
+      213: 4779440132580181498
+    second: bathroom_436
+  - first:
+      213: -5740167367921604026
+    second: bathroom_437
+  - first:
+      213: -4119660689463097119
+    second: bathroom_438
+  - first:
+      213: -1382806356125449493
+    second: bathroom_439
+  - first:
+      213: 2796369974342404822
+    second: bathroom_440
+  - first:
+      213: 7510980330078684591
+    second: bathroom_441
+  - first:
+      213: 2357634217484459450
+    second: bathroom_442
+  - first:
+      213: -9213467229667794218
+    second: bathroom_443
+  - first:
+      213: -232805306146557736
+    second: bathroom_444
+  - first:
+      213: -2462154187732439184
+    second: bathroom_445
+  - first:
+      213: -6664599929927386998
+    second: bathroom_446
+  - first:
+      213: 6074630616117565771
+    second: bathroom_447
+  - first:
+      213: 5956824222655252560
+    second: bathroom_448
+  - first:
+      213: -1129479445568298249
+    second: bathroom_449
+  - first:
+      213: 4816707088448828745
+    second: bathroom_450
+  - first:
+      213: 9171550027234864022
+    second: bathroom_451
+  - first:
+      213: 5162226398468388182
+    second: bathroom_452
+  - first:
+      213: -3673585571349990332
+    second: bathroom_453
+  - first:
+      213: 603337151105172567
+    second: bathroom_454
+  - first:
+      213: -6773241988593632222
+    second: bathroom_455
+  - first:
+      213: -6340162167023746436
+    second: bathroom_456
+  - first:
+      213: 4636817412580020870
+    second: bathroom_457
+  - first:
+      213: -1533849312843001279
+    second: bathroom_458
+  - first:
+      213: -5563557976107372703
+    second: bathroom_459
+  - first:
+      213: -7609670222215100492
+    second: bathroom_460
+  - first:
+      213: -8880872194629894734
+    second: bathroom_461
+  - first:
+      213: 3747584440064965831
+    second: bathroom_462
+  - first:
+      213: 2835757052287587057
+    second: bathroom_463
+  - first:
+      213: -5882324196122459492
+    second: bathroom_464
+  - first:
+      213: 2467805453378879462
+    second: bathroom_465
+  - first:
+      213: 7262132825314982597
+    second: bathroom_466
+  - first:
+      213: 4217723729093918250
+    second: bathroom_467
+  - first:
+      213: -142438541302179859
+    second: bathroom_468
+  - first:
+      213: -1754874831243688947
+    second: bathroom_469
+  - first:
+      213: 3730057201899444672
+    second: bathroom_470
+  - first:
+      213: 3351843115716772133
+    second: bathroom_471
+  - first:
+      213: 310506493309525072
+    second: bathroom_472
+  - first:
+      213: 2402900862223732209
+    second: bathroom_473
+  - first:
+      213: -7545794475275676915
+    second: bathroom_474
+  - first:
+      213: -4322767469240121664
+    second: bathroom_475
+  - first:
+      213: 2248920744419087293
+    second: bathroom_476
+  - first:
+      213: -1416825001612949263
+    second: bathroom_477
+  - first:
+      213: 8431477574314757813
+    second: bathroom_478
+  - first:
+      213: 7770400570535581911
+    second: bathroom_479
+  - first:
+      213: -2826048466943223918
+    second: bathroom_480
+  - first:
+      213: 7877752575906359368
+    second: bathroom_481
+  - first:
+      213: -84508068233117582
+    second: bathroom_482
+  - first:
+      213: -9211040684150885742
+    second: bathroom_483
+  - first:
+      213: -6801436995637623891
+    second: bathroom_484
+  - first:
+      213: -2024440692474670385
+    second: bathroom_485
+  - first:
+      213: 4174379334800121147
+    second: bathroom_486
+  - first:
+      213: -911961250464531012
+    second: bathroom_487
+  - first:
+      213: -7965924058578384204
+    second: bathroom_488
+  - first:
+      213: -6716128881741877511
+    second: bathroom_489
+  - first:
+      213: -5726575519467147738
+    second: bathroom_490
+  - first:
+      213: -1678634193177304064
+    second: bathroom_491
+  - first:
+      213: -7842504928781693295
+    second: bathroom_492
+  - first:
+      213: -6253587264061800236
+    second: bathroom_493
+  - first:
+      213: 6799733161741298450
+    second: bathroom_494
+  - first:
+      213: 6997175860724510840
+    second: bathroom_495
+  - first:
+      213: -1230399432354538695
+    second: bathroom_496
+  - first:
+      213: -7304666853951630161
+    second: bathroom_497
+  - first:
+      213: -6460558639002644005
+    second: bathroom_498
+  - first:
+      213: 2528320749278036459
+    second: bathroom_499
+  - first:
+      213: 5523027444032213950
+    second: bathroom_500
+  - first:
+      213: 5149547543069942677
+    second: bathroom_501
+  - first:
+      213: -2245861158742735077
+    second: bathroom_502
+  - first:
+      213: -9017420191893933729
+    second: bathroom_503
+  - first:
+      213: -2840059946633482731
+    second: bathroom_504
+  - first:
+      213: 5686067597209064879
+    second: bathroom_505
+  - first:
+      213: -5335010783524439822
+    second: bathroom_506
+  - first:
+      213: 2258661204060566281
+    second: bathroom_507
+  - first:
+      213: -1304957195837727715
+    second: bathroom_508
+  - first:
+      213: -818804338006530884
+    second: bathroom_509
+  - first:
+      213: -2160777833500576957
+    second: bathroom_510
+  - first:
+      213: -981455293100355408
+    second: bathroom_511
+  - first:
+      213: -469841256442219851
+    second: bathroom_512
+  - first:
+      213: -6952289855200686116
+    second: bathroom_513
+  - first:
+      213: -5054549650213480837
+    second: bathroom_514
+  - first:
+      213: -1899613712971621943
+    second: bathroom_515
+  - first:
+      213: -3488995007014353239
+    second: bathroom_516
+  - first:
+      213: -2231418756906109276
+    second: bathroom_517
+  - first:
+      213: 1198294144592463591
+    second: bathroom_518
+  - first:
+      213: -478391672811206291
+    second: bathroom_519
+  - first:
+      213: -4916306202355524424
+    second: bathroom_520
+  - first:
+      213: 4403420686019021209
+    second: bathroom_521
+  - first:
+      213: -286567747745271830
+    second: bathroom_522
+  - first:
+      213: 5259457122544150022
+    second: bathroom_523
+  - first:
+      213: -6662602090364060583
+    second: bathroom_524
+  - first:
+      213: -3931353065654219337
+    second: bathroom_525
+  - first:
+      213: -179473489025029301
+    second: bathroom_526
+  - first:
+      213: -7103746783848861737
+    second: bathroom_527
+  - first:
+      213: 7154599356399226999
+    second: bathroom_528
+  - first:
+      213: -6853629561320886247
+    second: bathroom_529
+  - first:
+      213: 4965919465042896441
+    second: bathroom_530
+  - first:
+      213: 1662094935661979308
+    second: bathroom_531
+  - first:
+      213: -415548981137730778
+    second: bathroom_532
+  - first:
+      213: -1619547359211203666
+    second: bathroom_533
+  - first:
+      213: 8596407467778496925
+    second: bathroom_534
+  - first:
+      213: 3824773446166316827
+    second: bathroom_535
+  - first:
+      213: 5615160826346714871
+    second: bathroom_536
+  - first:
+      213: -1949219536412061083
+    second: bathroom_537
+  - first:
+      213: -6845071980676358560
+    second: bathroom_538
+  - first:
+      213: 6447554328356987113
+    second: bathroom_539
+  - first:
+      213: 6943117706019040331
+    second: bathroom_540
+  - first:
+      213: -6986972985404628528
+    second: bathroom_541
+  - first:
+      213: 7825943946701117999
+    second: bathroom_542
+  - first:
+      213: -8247249273707318125
+    second: bathroom_543
+  - first:
+      213: 202281195270249429
+    second: bathroom_544
+  - first:
+      213: 7459632824086174133
+    second: bathroom_545
+  - first:
+      213: 9127927214448223576
+    second: bathroom_546
+  - first:
+      213: -6405337836886700766
+    second: bathroom_547
+  - first:
+      213: -4596583969221243166
+    second: bathroom_548
+  - first:
+      213: 4932453412456022459
+    second: bathroom_549
+  - first:
+      213: 9156980598655050033
+    second: bathroom_550
+  - first:
+      213: 2536184503623613656
+    second: bathroom_551
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bathroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a545813b0612fc0800000000000000
+      internalID: -3521427111303423466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7636e491a5fd9e060800000000000000
+      internalID: 6983358275279283047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b834287832793010800000000000000
+      internalID: 1169091165138729141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e961323c74c1ecd20800000000000000
+      internalID: 3300606671451264670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07e3a223e34bcb20800000000000000
+      internalID: 3155690606720968461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3214e3ff74eb4d0800000000000000
+      internalID: -3116974730507115604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28ba5cd0ff676920800000000000000
+      internalID: 2983476358436010028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0f1a6e6cef2d620800000000000000
+      internalID: 2797578448776851711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eabd3724c5628200800000000000000
+      internalID: 180818828194593506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b51916e754618b0800000000000000
+      internalID: -5181877912138065124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dc0a0e8d1334c0800000000000000
+      internalID: -4309067922572259023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab147418d597f7eb0800000000000000
+      internalID: -4719920441953140294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0fec9b20a4e500800000000000000
+      internalID: 424640374056618819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e98b96dbe1ae20800000000000000
+      internalID: 3360226103960135051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8a2f5d0a98ea080800000000000000
+      internalID: -9174244067029899023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1091219b97729edf0800000000000000
+      internalID: -150545708790703871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89e6f9321974df0800000000000000
+      internalID: -196028476582618900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e951299e19881820800000000000000
+      internalID: 2889209925469297122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da33b65a6bca742e0800000000000000
+      internalID: -2141553197332089939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca480c7f2cf66fa0800000000000000
+      internalID: -5807677388573095222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e19af5571d40f10800000000000000
+      internalID: 2235141617128906387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72082b454ae98ed30800000000000000
+      internalID: 4460989859543285799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6664bd61ac93c08f0800000000000000
+      internalID: -573019512453249434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_23
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc2bb06962924e30800000000000000
+      internalID: 4486309160106536113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1bbeba7e6aa4910800000000000000
+      internalID: 1822452513176793564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29247fa84597a20d0800000000000000
+      internalID: -3446809160783019374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1527491da9bc5e260800000000000000
+      internalID: 7126325851185246801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58781d443218450800000000000000
+      internalID: 6089186949661689324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4b5702937f59140800000000000000
+      internalID: 4725955208724985027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac5d54569bef310800000000000000
+      internalID: 1440792775419611805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31be2f5bcf010abc0800000000000000
+      internalID: -3773997810166076653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58f3aa004fd5310800000000000000
+      internalID: 1395539743248188897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34db91ab946508ad0800000000000000
+      internalID: -2702064901767447229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba5b1788b5b53b20800000000000000
+      internalID: 3113594521541892790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fd3d230a46ad0f0800000000000000
+      internalID: -1091449320473632872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0929dd87752f52820800000000000000
+      internalID: 2892984793159275152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33d172399b878a40800000000000000
+      internalID: 5370414570755183422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f880fd73d9723a050800000000000000
+      internalID: 5810531500438784143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2537addebc3969f0800000000000000
+      internalID: -474781495250701013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_39
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9680638314b481e60800000000000000
+      internalID: 7933173487101151337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b971a7528569ec70800000000000000
+      internalID: 9000836940767001015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251bc12a0a3aa69e0800000000000000
+      internalID: -1627308405031128750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463899b2bed67ad30800000000000000
+      internalID: 4442640414240506724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ef7c01cf285a70800000000000000
+      internalID: 8815848776762648347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bce834fdc9f43f60800000000000000
+      internalID: 8013304299959938227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f4d35e88575bd0800000000000000
+      internalID: -2641545288114440883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302f7a7702e50e520800000000000000
+      internalID: 2729284867725980163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_47
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f533d9650878f00800000000000000
+      internalID: 1119004141917789969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1e11fa20384790800000000000000
+      internalID: -7545728214667223796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28521600b08f0a0800000000000000
+      internalID: -6847711137159085346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bce18e3faabc6b0800000000000000
+      internalID: -5274934573986297032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57924273c691170800000000000000
+      internalID: 8149663984789321154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38a353a3b8093500800000000000000
+      internalID: 376341611494484026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bea88a9fe354990800000000000000
+      internalID: -7402441170518086807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e85eddcd4998cdc0800000000000000
+      internalID: -3618473741146760992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f134a1cf34a76050800000000000000
+      internalID: 5793780039374090745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f414c3ec06db0a0800000000000000
+      internalID: -6864223818152325343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b87f4a2a4b5f810800000000000000
+      internalID: 1798542236849769281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba61aee5208cfd660800000000000000
+      internalID: 7412863424183015083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d2e362c41d260b0800000000000000
+      internalID: -5736792850327261915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78efad3f925d9ce0800000000000000
+      internalID: -1396869465526769540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90736b7d7d60c6200800000000000000
+      internalID: 174522009667385097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3dc330da7892db0800000000000000
+      internalID: -4816169149342624815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_63
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58a969824412b40800000000000000
+      internalID: 5413683168192136658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f357c9dc6b4b3e00800000000000000
+      internalID: 1025496271039190004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_65
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db4ec65623d4750800000000000000
+      internalID: 6290739665706466581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad25e50eca2b1d0800000000000000
+      internalID: -3336414294272976138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17a5a0f7d4fe7e0800000000000000
+      internalID: -1734082123484466749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492d8cc2a7c61cb0800000000000000
+      internalID: -4893504443061032631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc00df9e3dff050800000000000000
+      internalID: 5836616644020981534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4cc2d6ddfe69630800000000000000
+      internalID: 3933595058853168296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ffbfb49d39fa4b0800000000000000
+      internalID: -5426956464466165964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43507c831d7097e70800000000000000
+      internalID: 9113323916143035700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bathroom_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273b7cfbf1be8270800000000000000
+      internalID: 8254730862847538980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

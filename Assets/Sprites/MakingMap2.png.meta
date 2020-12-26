@@ -1,0 +1,422 @@
+fileFormatVersion: 2
+guid: 3ee47332cedc39b47afe8353db176047
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5551561613436189932
+    second: MakingMap2_0
+  - first:
+      213: -993066441473502943
+    second: MakingMap2_1
+  - first:
+      213: -4812363715846169832
+    second: MakingMap2_2
+  - first:
+      213: 3753697435113390081
+    second: MakingMap2_3
+  - first:
+      213: -1211451130856593880
+    second: MakingMap2_4
+  - first:
+      213: -5088746884991792580
+    second: MakingMap2_5
+  - first:
+      213: 675571607159139538
+    second: MakingMap2_6
+  - first:
+      213: -4458544075520477600
+    second: MakingMap2_7
+  - first:
+      213: -3047860233456192912
+    second: MakingMap2_8
+  - first:
+      213: 2093688461751306
+    second: MakingMap2_9
+  - first:
+      213: -3192703732787947668
+    second: MakingMap2_10
+  - first:
+      213: -926662230348928167
+    second: MakingMap2_11
+  - first:
+      213: 2913266674091787853
+    second: MakingMap2_12
+  - first:
+      213: 593965923888695713
+    second: MakingMap2_13
+  - first:
+      213: 8323514173829796308
+    second: MakingMap2_14
+  - first:
+      213: 689610153883467127
+    second: MakingMap2_15
+  - first:
+      213: -8830883637104029703
+    second: MakingMap2_16
+  - first:
+      213: 7419353982837420392
+    second: MakingMap2_17
+  - first:
+      213: -5299525995534389898
+    second: MakingMap2_18
+  - first:
+      213: 7611996185358076977
+    second: MakingMap2_19
+  - first:
+      213: 4597330193577019406
+    second: MakingMap2_20
+  - first:
+      213: -7206784027544724516
+    second: MakingMap2_21
+  - first:
+      213: -1563570913164887236
+    second: MakingMap2_22
+  - first:
+      213: -7691473311690989943
+    second: MakingMap2_23
+  - first:
+      213: -4247659870414568120
+    second: MakingMap2_24
+  - first:
+      213: 3738174149631688174
+    second: MakingMap2_25
+  - first:
+      213: -7227042956964625110
+    second: MakingMap2_26
+  - first:
+      213: 2933728406558387353
+    second: MakingMap2_27
+  - first:
+      213: -4077004171289281339
+    second: MakingMap2_28
+  - first:
+      213: 5648433604488680359
+    second: MakingMap2_29
+  - first:
+      213: -6877970708340637010
+    second: MakingMap2_30
+  - first:
+      213: 647025412517629980
+    second: MakingMap2_31
+  - first:
+      213: -6357242808484475096
+    second: MakingMap2_32
+  - first:
+      213: -318546480478354885
+    second: MakingMap2_33
+  - first:
+      213: 4182082451366489115
+    second: MakingMap2_34
+  - first:
+      213: 3002677526152792837
+    second: MakingMap2_35
+  - first:
+      213: 4187867931464325031
+    second: MakingMap2_36
+  - first:
+      213: -6240299772906771935
+    second: MakingMap2_37
+  - first:
+      213: -4413221332211162906
+    second: MakingMap2_38
+  - first:
+      213: 1868919527116217726
+    second: MakingMap2_39
+  - first:
+      213: -126791926254262183
+    second: MakingMap2_40
+  - first:
+      213: 2242593573073448644
+    second: MakingMap2_41
+  - first:
+      213: -5187087639910820996
+    second: MakingMap2_42
+  - first:
+      213: -8056880061766373867
+    second: MakingMap2_43
+  - first:
+      213: 739063038096288919
+    second: MakingMap2_44
+  - first:
+      213: 2061899057332619257
+    second: MakingMap2_45
+  - first:
+      213: 2883455852205721678
+    second: MakingMap2_46
+  - first:
+      213: 6957358359731737504
+    second: MakingMap2_47
+  - first:
+      213: -3631862275171141183
+    second: MakingMap2_48
+  - first:
+      213: -8349443202782329370
+    second: MakingMap2_49
+  - first:
+      213: -8770358171051141061
+    second: MakingMap2_50
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MakingMap2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41301724024e4f2b0800000000000000
+      internalID: -5551561613436189932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakingMap2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675c16eedc31b3d0800000000000000
+      internalID: -3192703732787947668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakingMap2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08065f047ffccf30800000000000000
+      internalID: 4597330193577019406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakingMap2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea280d1f41a8c80a0800000000000000
+      internalID: -6877970708340637010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MakingMap2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9582a333a6b8d3ef0800000000000000
+      internalID: -126791926254262183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

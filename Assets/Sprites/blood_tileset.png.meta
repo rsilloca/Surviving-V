@@ -1,0 +1,2216 @@
+fileFormatVersion: 2
+guid: cb77b6c582044af428db875b33d2b386
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3314175469322957504
+    second: blood_tileset_0
+  - first:
+      213: 797557241667383347
+    second: blood_tileset_1
+  - first:
+      213: -4882298715365942267
+    second: blood_tileset_2
+  - first:
+      213: 250015418738009201
+    second: blood_tileset_3
+  - first:
+      213: 5771063489654884367
+    second: blood_tileset_4
+  - first:
+      213: 1183857553226260047
+    second: blood_tileset_5
+  - first:
+      213: 4263915124537572456
+    second: blood_tileset_6
+  - first:
+      213: 776626603167533882
+    second: blood_tileset_7
+  - first:
+      213: 7277358033241673078
+    second: blood_tileset_8
+  - first:
+      213: 8348591779421613934
+    second: blood_tileset_9
+  - first:
+      213: 6411023028888176621
+    second: blood_tileset_10
+  - first:
+      213: -6731012165186055827
+    second: blood_tileset_11
+  - first:
+      213: 5905255370067338840
+    second: blood_tileset_12
+  - first:
+      213: -4647472610548423134
+    second: blood_tileset_13
+  - first:
+      213: -6319803312529127343
+    second: blood_tileset_14
+  - first:
+      213: 672298588365202676
+    second: blood_tileset_15
+  - first:
+      213: 3554228178816402202
+    second: blood_tileset_16
+  - first:
+      213: -7415462836157478497
+    second: blood_tileset_17
+  - first:
+      213: -7320515055252177439
+    second: blood_tileset_18
+  - first:
+      213: -5187160288792147240
+    second: blood_tileset_19
+  - first:
+      213: -7106707668378942833
+    second: blood_tileset_20
+  - first:
+      213: -3617902950698004682
+    second: blood_tileset_21
+  - first:
+      213: 8548358200468047163
+    second: blood_tileset_22
+  - first:
+      213: -4552946109824234370
+    second: blood_tileset_23
+  - first:
+      213: 4189426431978025651
+    second: blood_tileset_24
+  - first:
+      213: -7987502823243194550
+    second: blood_tileset_25
+  - first:
+      213: -8920513275693920354
+    second: blood_tileset_26
+  - first:
+      213: 5120530502754550316
+    second: blood_tileset_27
+  - first:
+      213: 2719436005034030850
+    second: blood_tileset_28
+  - first:
+      213: 1116030944893448220
+    second: blood_tileset_29
+  - first:
+      213: 7413266998321531197
+    second: blood_tileset_30
+  - first:
+      213: 124117396052546859
+    second: blood_tileset_31
+  - first:
+      213: -6269001964337263024
+    second: blood_tileset_32
+  - first:
+      213: 756372377865272789
+    second: blood_tileset_33
+  - first:
+      213: -6166053255470754733
+    second: blood_tileset_34
+  - first:
+      213: -676702564664255508
+    second: blood_tileset_35
+  - first:
+      213: 397868181289649269
+    second: blood_tileset_36
+  - first:
+      213: -2323156245881575338
+    second: blood_tileset_37
+  - first:
+      213: -1347886090643017633
+    second: blood_tileset_38
+  - first:
+      213: -557611148535304388
+    second: blood_tileset_39
+  - first:
+      213: 2205828425410972419
+    second: blood_tileset_40
+  - first:
+      213: 1021648853233857449
+    second: blood_tileset_41
+  - first:
+      213: -8930415011707857681
+    second: blood_tileset_42
+  - first:
+      213: -4507085794505857606
+    second: blood_tileset_43
+  - first:
+      213: -335163964306580013
+    second: blood_tileset_44
+  - first:
+      213: -2310031544759248068
+    second: blood_tileset_45
+  - first:
+      213: 7437904064000676466
+    second: blood_tileset_46
+  - first:
+      213: 146790000088321076
+    second: blood_tileset_47
+  - first:
+      213: -1276229295222278915
+    second: blood_tileset_48
+  - first:
+      213: -6791841400071044173
+    second: blood_tileset_49
+  - first:
+      213: 1048195600219749497
+    second: blood_tileset_50
+  - first:
+      213: -6005371297928064146
+    second: blood_tileset_51
+  - first:
+      213: 3196096059183750392
+    second: blood_tileset_52
+  - first:
+      213: 2536764238261787038
+    second: blood_tileset_53
+  - first:
+      213: 7648566250836643128
+    second: blood_tileset_54
+  - first:
+      213: 829600943250854901
+    second: blood_tileset_55
+  - first:
+      213: -1168805591099462767
+    second: blood_tileset_56
+  - first:
+      213: -487814221142384087
+    second: blood_tileset_57
+  - first:
+      213: 3920027827134202021
+    second: blood_tileset_58
+  - first:
+      213: -1155536685020044035
+    second: blood_tileset_59
+  - first:
+      213: -7796615057487711949
+    second: blood_tileset_60
+  - first:
+      213: -7764445352739368184
+    second: blood_tileset_61
+  - first:
+      213: 5958160515584992833
+    second: blood_tileset_62
+  - first:
+      213: -1948311285793260708
+    second: blood_tileset_63
+  - first:
+      213: 6212232692195445205
+    second: blood_tileset_64
+  - first:
+      213: 6426652293936019800
+    second: blood_tileset_65
+  - first:
+      213: -4571521896357010362
+    second: blood_tileset_66
+  - first:
+      213: 8845571038413626082
+    second: blood_tileset_67
+  - first:
+      213: -7068526601431822248
+    second: blood_tileset_68
+  - first:
+      213: 6509191905789832089
+    second: blood_tileset_69
+  - first:
+      213: 3363332814448412413
+    second: blood_tileset_70
+  - first:
+      213: 3651874491291921987
+    second: blood_tileset_71
+  - first:
+      213: 3128523932193353128
+    second: blood_tileset_72
+  - first:
+      213: 633556721858498036
+    second: blood_tileset_73
+  - first:
+      213: -6904282157970039277
+    second: blood_tileset_74
+  - first:
+      213: -6139653764411299676
+    second: blood_tileset_75
+  - first:
+      213: 3232551802913359199
+    second: blood_tileset_76
+  - first:
+      213: 4351533701394656992
+    second: blood_tileset_77
+  - first:
+      213: 2216354703435171344
+    second: blood_tileset_78
+  - first:
+      213: 5024366226579913828
+    second: blood_tileset_79
+  - first:
+      213: 7232359286094852972
+    second: blood_tileset_80
+  - first:
+      213: -1240835846766389192
+    second: blood_tileset_81
+  - first:
+      213: 5155213129547809694
+    second: blood_tileset_82
+  - first:
+      213: 2361116760582174434
+    second: blood_tileset_83
+  - first:
+      213: -8894318057786077056
+    second: blood_tileset_84
+  - first:
+      213: 5356249424982947972
+    second: blood_tileset_85
+  - first:
+      213: 5885277096325736760
+    second: blood_tileset_86
+  - first:
+      213: -5110869507001754719
+    second: blood_tileset_87
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blood_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 33
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2fe44b7015efd20800000000000000
+      internalID: 3314175469322957504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 488
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330ff9de51e711b00800000000000000
+      internalID: 797557241667383347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 422
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c54479f279e3cb0800000000000000
+      internalID: -4882298715365942267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 423
+        width: 67
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ef3ed2bb387300800000000000000
+      internalID: 250015418738009201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 462
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f080b1ddaafe61050800000000000000
+      internalID: 5771063489654884367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed6bc1c28ed6010800000000000000
+      internalID: 1183857553226260047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 479
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c3a7ee6387c2b30800000000000000
+      internalID: 4263915124537572456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 488
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b4be4e7c127ca00800000000000000
+      internalID: 776626603167533882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 454
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d84baf29e5ef460800000000000000
+      internalID: 7277358033241673078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6feb2b9df72cd370800000000000000
+      internalID: 8348591779421613934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78abb4a7788f850800000000000000
+      internalID: 6411023028888176621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6190432914a692a0800000000000000
+      internalID: -6731012165186055827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 468
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856e4d0c87ea3f150800000000000000
+      internalID: 5905255370067338840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 477
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22667e8b84cd08fb0800000000000000
+      internalID: -4647472610548423134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 472
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584d5afe5c8b48a0800000000000000
+      internalID: -6319803312529127343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 474
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4218e010c745900800000000000000
+      internalID: 672298588365202676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 465
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13090192b7235130800000000000000
+      internalID: 3554228178816402202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 469
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9909bdd6dbf61990800000000000000
+      internalID: -7415462836157478497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 453
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed7bcec75e486a90800000000000000
+      internalID: -7320515055252177439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 458
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da088933318308b0800000000000000
+      internalID: -5187160288792147240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 398
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f828abf4707ef5d90800000000000000
+      internalID: -7106707668378942833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 420
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3502bffd7ed1a670800000000000000
+      internalID: 8548358200468047163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 382
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0e6ab2afa0d0c0800000000000000
+      internalID: -4552946109824234370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2bea2b425d32a30800000000000000
+      internalID: 4189426431978025651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 384
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fd82a7080b62190800000000000000
+      internalID: -7987502823243194550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 389
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f8b1c4078f33480800000000000000
+      internalID: -8920513275693920354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 381
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22cc3ecc57cf0740800000000000000
+      internalID: 5120530502754550316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 408
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207f57d63a06db520800000000000000
+      internalID: 2719436005034030850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 395
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b7bc3b30fc7f00800000000000000
+      internalID: 1116030944893448220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 352
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c41cce0731e660800000000000000
+      internalID: 7413266998321531197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 376
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2598263d14f8b100800000000000000
+      internalID: 124117396052546859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 373
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e83739de70009a0800000000000000
+      internalID: -6269001964337263024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 319
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb3949bac2f7a00800000000000000
+      internalID: 756372377865272789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545689bb37cd6aa0800000000000000
+      internalID: -6166053255470754733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb579e4a9edb96f0800000000000000
+      internalID: -676702564664255508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 320
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574433db003858500800000000000000
+      internalID: 397868181289649269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 322
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658af76f3bd72cfd0800000000000000
+      internalID: -2323156245881575338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 323
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f507881fdb85b4de0800000000000000
+      internalID: -1347886090643017633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 32
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f61c06d97f248f0800000000000000
+      internalID: -557611148535304388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 296
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b8414144dac9e10800000000000000
+      internalID: 2205828425410972419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a370361830ad2e00800000000000000
+      internalID: 1021648853233857449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 290
+        width: 68
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4565abcdac01480800000000000000
+      internalID: -8930415011707857681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 299
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5e446795d9371c0800000000000000
+      internalID: -4507085794505857606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd9ef57622495bf0800000000000000
+      internalID: -335163964306580013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 271
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9da29c8e11ffd0800000000000000
+      internalID: -2310031544759248068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272d138a65eb83760800000000000000
+      internalID: 7437904064000676466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c08d33ab0890200800000000000000
+      internalID: 146790000088321076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4345eb73ce94ee0800000000000000
+      internalID: -1276229295222278915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 222
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b349f93b388eb1a0800000000000000
+      internalID: -6791841400071044173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 188
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb9364850fb8e00800000000000000
+      internalID: 1048195600219749497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 240
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63dba25f92a8aca0800000000000000
+      internalID: -6005371297928064146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 193
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5ca3ae60da5c20800000000000000
+      internalID: 3196096059183750392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 221
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99128462a5643320800000000000000
+      internalID: 2536764238261787038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc8263b7a252a60800000000000000
+      internalID: 7648566250836643128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 195
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3dbc799a5538b00800000000000000
+      internalID: 829600943250854901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 198
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ba60be18197cfe0800000000000000
+      internalID: -1168805591099462767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 187
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922ac68ec8fea39f0800000000000000
+      internalID: -487814221142384087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a00bf12a8cb66630800000000000000
+      internalID: 3920027827134202021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 137
+        width: 115
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4a27cd185b6ffe0800000000000000
+      internalID: -1155536685020044035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 36
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331bbf7d9ebdcc390800000000000000
+      internalID: -7796615057487711949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039908e6162f3490800000000000000
+      internalID: -7764445352739368184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 78
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a336db63afa250800000000000000
+      internalID: 5958160515584992833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 65
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b786a453536f4e0800000000000000
+      internalID: -1948311285793260708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 84
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c06048b8463650800000000000000
+      internalID: 6212232692195445205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 70
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597103263e003950800000000000000
+      internalID: 6426652293936019800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64468b46e01be80c0800000000000000
+      internalID: -4571521896357010362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 46
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea902c5ef7c1ca70800000000000000
+      internalID: 8845571038413626082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d144b18c87ed90800000000000000
+      internalID: -7068526601431822248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b63771d8b455a50800000000000000
+      internalID: 6509191905789832089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6cc920065fcae20800000000000000
+      internalID: 3363332814448412413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ee3c950801ea230800000000000000
+      internalID: 3651874491291921987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_72
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 41
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad61b1d0ffba6b20800000000000000
+      internalID: 3128523932193353128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_73
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdcf675b78dac800800000000000000
+      internalID: 633556721858498036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_74
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ed02135ff0f20a0800000000000000
+      internalID: -6904282157970039277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_75
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 35
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8ef583e619bcaa0800000000000000
+      internalID: -6139653764411299676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5503baecb45cdc20800000000000000
+      internalID: 3232551802913359199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_77
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee4c398d0c36c30800000000000000
+      internalID: 4351533701394656992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016058a2cd212ce10800000000000000
+      internalID: 2216354703435171344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_79
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cf3cc76722ab540800000000000000
+      internalID: 5024366226579913828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637ea7b3708e5460800000000000000
+      internalID: 7232359286094852972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 258
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381be02f5aa7cee0800000000000000
+      internalID: -1240835846766389192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 316
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938020270ffa8740800000000000000
+      internalID: 5155213129547809694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_83
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 357
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6b8bb1f2f54c020800000000000000
+      internalID: 2361116760582174434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 316
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080915eb9d8019480800000000000000
+      internalID: -8894318057786077056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bf703978355a40800000000000000
+      internalID: 5356249424982947972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_86
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 386
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839ec3b6654bca150800000000000000
+      internalID: 5885277096325736760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 355
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fcecf4f60aacdc0800000000000000
+      internalID: -3617902950698004682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blood_tileset_87
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 320
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd8cd034b8219b0800000000000000
+      internalID: -5110869507001754719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
